@@ -19,4 +19,4 @@ Deploy ไฟล์ที่ build โดยใช้บริการ Static w
 
 ดูวิธีการใช้ **Surge** ใน MS TEAM Channel General
 
-(ใส่ URL ที่นี่)
+https://codesandbox.io/p/github/cpe-cmu-261207/quiz-37-tawannantawat/draft/youthful-wozniak?file=%2Fpages%2Findex.js
